@@ -5,3 +5,4 @@
 本文目录如下：
 
 * [序言](https://github.com/fmywl/FMHYL/blob/main/Preamble.md)
+* [金融监管就是个笑话](https://github.com/fmywl/FMHYL/blob/main/FinancialRegulationIsAJoker.md) 
